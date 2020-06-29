@@ -1,0 +1,1 @@
+{"version":3,"sources":["Tabs.css"],"names":[],"mappings":"AAAA,iBACE,YAEF,CAEA,eACE,eACF","file":"main.051e83d6.chunk.css","sourcesContent":[".tabs__container {\r\n  padding: 10px;\r\n  \r\n}\r\n\r\n.tabs__content {\r\n  margin-top: 10px;\r\n}\r\n"]}
